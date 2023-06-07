@@ -50,7 +50,3 @@ If you would like to contribute to the development of this application, please f
 3. Make your changes and commit them.
 4. Push your changes to your fork.
 5. Submit a pull request.
-
-## License
-
-This application is licensed under the MIT License. See the LICENSE file for more information.
