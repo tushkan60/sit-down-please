@@ -1,0 +1,41 @@
+.input-group>.form-control, .input-group>.form-floating, .input-group>.form-select {
+    width: unset;
+}
+
+.header__form{
+    position: relative;
+}
+
+.header__search{
+    width: 1060px;
+    display: flex;
+    height: 60px;
+}
+
+.header__input{
+    background-image: url("../../../assets/search.svg");
+    background-repeat: no-repeat;
+    background-position: top 22px left 34px;
+    width: 761px;
+    padding: 20px 0 20px 59px;
+    border: none;
+    background-color: var(--bg-color-1);
+    border-radius:10px 0 0 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+    outline: none;
+}
+.header__input::placeholder{
+        color: var(--color-gray);
+}
+
+.header__btn{
+    position: absolute;
+    padding: 0;
+    background-color: inherit;
+    border: none;
+    left: 697px;
+    top: 14px;
+    cursor: pointer;
+}

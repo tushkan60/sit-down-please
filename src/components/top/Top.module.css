@@ -1,0 +1,39 @@
+.top {
+  margin-bottom: 70px;
+}
+
+.top__card {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-color-1);
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.top__tags {
+  display: flex;
+  list-style: none;
+  margin-bottom: 14px;
+  padding: 0;
+}
+
+.top__tags li {
+  margin-right: 30px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  color: var(--color-gray);
+}
+
+.top__subtitle {
+  margin-bottom: 30px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 33px;
+  color: var(--color-black);
+}
+
+.top__img {
+  margin-left: -30px;
+  margin-bottom: 30px;
+}

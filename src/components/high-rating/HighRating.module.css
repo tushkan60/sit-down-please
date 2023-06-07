@@ -1,0 +1,11 @@
+.rating {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.rating__btn {
+  margin-top: 32px;
+  align-self: center;
+}

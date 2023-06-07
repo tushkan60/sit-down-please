@@ -1,0 +1,11 @@
+.rating {
+  margin-bottom: 70px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.swiper {
+  margin-bottom: 70px;
+  padding-bottom: 64px;
+}

@@ -1,0 +1,11 @@
+.slider__input {
+  border: 1px solid #999999;
+  border-radius: 2px;
+  margin: 0;
+  width: 86px;
+}
+
+.input__group {
+  display: flex;
+  justify-content: space-between;
+}

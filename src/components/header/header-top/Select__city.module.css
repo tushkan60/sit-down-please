@@ -1,0 +1,8 @@
+.select__city{
+    color: var(--primary-color);
+    border: none;
+    background-color: var(--bg-color-1);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+}

@@ -1,0 +1,66 @@
+.header__top {
+  height: 50px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__select {
+  display: flex;
+  align-items: center;
+}
+
+.header__text {
+  white-space: nowrap;
+  margin: 0;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 120%;
+}
+
+.header__phone {
+  margin-right: 219px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  color: #ff862f;
+  text-decoration: none;
+  padding: 2px 0 2px 25px;
+  background-image: url("../../../assets/phone.svg");
+  background-repeat: no-repeat;
+  background-position: top 0 left 0;
+}
+
+.header__list {
+  display: flex;
+  margin: 0;
+  list-style: none;
+}
+
+.header__list a {
+  text-decoration: none;
+  color: var(--color-gray);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 100%;
+  transition: color 0.3ms ease-in-out, background-color 0.3s ease-in-out;
+}
+
+.header__list a:focus {
+  outline: none;
+  color: var(--active-color);
+  background-color: var(--hover-color);
+}
+.header__list a:hover {
+  background-color: transparent;
+  color: var(--hover-color);
+}
+.header__list a:active {
+  background-color: transparent;
+  color: var(--active-color);
+}
+
+.header__list li:not(:last-child) {
+  margin-right: 64px;
+}

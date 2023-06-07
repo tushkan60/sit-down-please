@@ -1,0 +1,11 @@
+.item__rating {
+  padding-left: 22px;
+  margin-bottom: auto;
+  background-image: url("../../../assets/star.png");
+  background-repeat: no-repeat;
+  background-position: top 2px left 0;
+  color: var(--color-orange);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+}

@@ -1,0 +1,28 @@
+.promo {
+  height: 600px;
+  max-width: 1920px;
+  margin: 0 auto;
+  margin-bottom: 70px;
+  padding: 150px 320px;
+  background-image: url("src/assets/promo.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.promo h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 60px;
+  line-height: 120%;
+  color: var(--color-gold);
+}
+
+.promo p {
+  width: 60%;
+  margin-bottom: 49px;
+  font-family: "Open Sans", serif;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 57px;
+  color: var(--color-white);
+}

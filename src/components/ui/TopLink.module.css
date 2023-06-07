@@ -1,0 +1,11 @@
+.top__link {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 120%;
+  color: var(--primary-color);
+}
+
+.top__link svg {
+  margin-left: 5px;
+}

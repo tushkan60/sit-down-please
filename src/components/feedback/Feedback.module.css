@@ -1,0 +1,10 @@
+.feedback {
+  background-image: url("src/assets/feedback.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-bottom: 70px;
+}
+.feedback span {
+  display: flex;
+  width: 50%;
+}

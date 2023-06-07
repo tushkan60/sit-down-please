@@ -1,0 +1,10 @@
+.select__categories{
+    width: 300px;
+    padding: 19px 24px 19px 32px;
+    color: var(--primary-color);
+    border-radius:0 10px 10px 0;
+    border: 2px solid var(--bg-color-1);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}

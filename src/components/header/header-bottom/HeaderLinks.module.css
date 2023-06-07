@@ -1,0 +1,34 @@
+.header__links ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.header__user {
+  margin-right: 32px;
+  outline: none;
+}
+
+.header__user svg {
+  fill: #ff862f;
+}
+
+.header__cart {
+  display: flex;
+  text-decoration: none;
+}
+
+.header__cart p {
+  padding: 2px 4px 3px 4px;
+  background-color: #ff862f;
+  border-radius: 50%;
+  margin: 0;
+  align-self: center;
+  justify-self: center;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 100%;
+  color: var(--color-white);
+}

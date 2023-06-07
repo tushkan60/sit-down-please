@@ -1,0 +1,14 @@
+.special {
+  position: relative;
+  margin-bottom: 70px;
+}
+
+.item__small {
+  width: 296px !important;
+  height: 511px !important;
+}
+
+.item__big {
+  width: 624px !important;
+  height: 511px !important;
+}

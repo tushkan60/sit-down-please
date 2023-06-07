@@ -1,0 +1,23 @@
+.hero {
+  max-width: 1920px;
+  margin: 0 auto;
+  margin-bottom: 70px;
+}
+
+.hero__descrip {
+  position: absolute;
+  top: 3rem;
+  left: 9rem;
+  color: var(--color-gray);
+}
+
+.hero__descripLight {
+  color: var(--color-white);
+}
+
+.hero__descrip h3 {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 65px;
+  margin-bottom: 49px;
+}

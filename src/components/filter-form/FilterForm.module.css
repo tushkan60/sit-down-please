@@ -1,0 +1,26 @@
+.filter__title {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 130%;
+  color: var(--color-black);
+}
+
+.filter__group {
+  margin-bottom: 26px;
+}
+
+.filter__subtitle {
+  margin: 0;
+  margin-bottom: 4px;
+  padding: 0;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  color: var(--color-light-gray);
+}
+.filter__check {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 130%;
+  color: var(--color-light-gray);
+}

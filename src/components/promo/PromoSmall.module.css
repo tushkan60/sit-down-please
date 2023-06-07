@@ -1,0 +1,29 @@
+.promo__small {
+  background: var(--color-black);
+  border-radius: 0px 0px 10px 10px;
+}
+
+.promo__descrip {
+  padding: 30px;
+}
+
+.promo__small img {
+  width: 100%;
+}
+
+.promo__small h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 24px;
+  line-height: 32px;
+  color: var(--color-gold);
+}
+
+.promo__small p {
+  width: 60%;
+  margin-bottom: 12px;
+  font-family: "Open Sans", serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: var(--color-gray);
+}
